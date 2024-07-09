@@ -17,3 +17,4 @@ Tarjan SCC 对每个强连通分量内的状态染色。
 ## 例题
 
 - [P4782 【模板】2-SAT](https://www.luogu.com.cn/problem/P4782)
+- [P3825 [NOI2017] 游戏](https://www.luogu.com.cn/problem/P3825)
