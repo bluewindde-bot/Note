@@ -1,0 +1,19 @@
+.bold {
+    font-weight: bold;
+}
+
+.func-declaration {
+    font-family: Consolas;
+}
+
+.func-type {
+    color: rgb(39, 87, 221);
+}
+
+.func-title {
+    color: rgb(179, 0, 0);
+}
+
+.func-light {
+    color: rgb(90, 92, 99);
+}
